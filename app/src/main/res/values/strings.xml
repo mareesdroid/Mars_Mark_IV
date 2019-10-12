@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mars</string>
+
+
+    <string name="notify_record">Record</string>
+    <string name="notify_stop">Stop</string>
+    <string name="notify_shutdown">Shutdown</string>
+    <string name="title_activity_cloud">Cloud</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+</resources>
