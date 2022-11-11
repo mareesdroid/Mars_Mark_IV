@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:19350604617:android:a9a02cc3fc689727",
+        "mobilesdk_app_id": "app-id-here",
         "android_client_info": {
           "package_name": "app.marees.mars"
         }
       },
       "oauth_client": [
         {
-          "client_id": "19350604617-o3fvvrt3b7a4v63sv90g53s2n5ruu7nt.apps.googleusercontent.com",
+          "client_id": "client_id_here",
           "client_type": 1,
           "android_info": {
             "package_name": "app.marees.mars",
@@ -23,7 +23,7 @@
           }
         },
         {
-          "client_id": "19350604617-1rbj8a202js9vk647k210k73hqn6coe1.apps.googleusercontent.com",
+          "client_id": "client-id-here",
           "client_type": 1,
           "android_info": {
             "package_name": "app.marees.mars",
@@ -33,14 +33,14 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBCCCGh3PFYifSG3VJEz7qgdl-AlLm2ybg"
+          "current_key": "api_key_here"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "19350604617-t19iinhfbepf6i62i7tletcin1gm55n4.apps.googleusercontent.com",
+              "client_id": "client-id-here",
               "client_type": 3
             }
           ]
